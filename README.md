@@ -1,5 +1,5 @@
 
 
-Some simple essays
+Some simple scripts
     
 
